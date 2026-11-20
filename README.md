@@ -18,7 +18,7 @@
 
 ## แบบจำลองกลไก
 
-![Links and joints](media/links_joints.png)
+![Links and joints](media/link_joint.png)
 
 เครื่องกดแบบ toggle ตั้งตรง ก้านโยกหมุนตามเข็มนาฬิกาที่ 30 rpm ขับ ram ให้กดลงในแนวดิ่ง crank O₂A ยาว 40 mm ติดแข็งกับก้านโยกยาว 150 mm ที่ตั้งฉากกัน coupler AB ยาว 160 mm และ ram เลื่อนอยู่บนเส้นผ่าน O₂ ($e=0$) แรงกดงาน 1000 N ทำงานในช่วง 2 mm สุดท้ายของระยะเคลื่อนที่
 
