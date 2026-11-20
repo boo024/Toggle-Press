@@ -66,7 +66,7 @@ ram เคลื่อนที่ลง 75.83 mm ใน 0.817 s ยิ่งใ
 
 สมการถูกต้อง โดยความยาว coupler คงที่ (ผิดพลาด $5.6\times10^{-17}$ m) และแรงบิดจาก Newton–Euler ตรงกับหลักงานเสมือน (ต่างกัน $1.8\times10^{-15}$ N·m)
 
-[Kinematics.png](Kinematics.png)
+![Kinematics.png](Kinematics.png)
 
 ## Synthesis
 
