@@ -4,7 +4,6 @@
 2103322 MECHANICS OF MACHINERY · Symbolic Mathematics
 
 วิเคราะห์เครื่องกดแบบ toggle ที่เป็นสไลเดอร์–แคร้งก์ในแนวเส้นศูนย์กลาง พร้อมก้านโยกรูปตัว L 
-![Mechanism.mp4](Mechanism.mp4)
 
 ## ไฟล์ส่งงาน
 
