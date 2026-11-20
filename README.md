@@ -10,7 +10,7 @@
 | ไฟล์ | เนื้อหา |
 |---|---|
 | [Report.pdf](Report.pdf) | รายงาน |
-| [toggle_press.m](toggle_press.m) | Symbolic analysis และคำสั่งรัน |
+| [toggle_press.m](toggle_press.m) | Script Symbolic analysis |
 | [Mechanism.mp4](Mechanism.mp4) | ภาพเคลื่อนไหวพร้อมกราฟ s/v/a |
 | [Animation.png](Animation.png) | ภาพกลไกและกราฟ |
 | [Synthesis/](Synthesis/) | วิดีโอและภาพ Synthesis |
