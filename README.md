@@ -13,7 +13,7 @@
 | [toggle_press.m](toggle_press.m) | Script Symbolic analysis |
 | [Mechanism.mp4](Mechanism.mp4) | ภาพเคลื่อนไหวพร้อมกราฟ s/v/a |
 | [Animation.png](Animation.png) | ภาพกลไกและกราฟ |
-| [Synthesis/](Synthesis/) | วิดีโอและภาพ Synthesis |
+| [Synthesis/](Synthesis/) |Synthesis|
 
 ## แบบจำลองกลไก
 
