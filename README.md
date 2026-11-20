@@ -9,7 +9,7 @@
 
 | ไฟล์ | เนื้อหา |
 |---|---|
-| [Report.pdf](Report.pdf) | รายงาน 2 หน้า สำหรับพิมพ์ |
+| [Report.pdf](Report.pdf) | รายงาน |
 | [Mechanism.mlx](Mechanism.mlx) | Symbolic analysis และคำสั่งรัน |
 | [Mechanism.mp4](Mechanism.mp4) | ภาพเคลื่อนไหวพร้อมกราฟ s/v/a |
 | [Render.jpg](Render.jpg) | ภาพกลไกและกราฟ |
