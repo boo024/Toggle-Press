@@ -13,7 +13,6 @@
 | [toggle-press.m](toggle-press.m) | Symbolic analysis และคำสั่งรัน |
 | [Mechanism.mp4](Mechanism.mp4) | ภาพเคลื่อนไหวพร้อมกราฟ s/v/a |
 | [Animation.png](Animation.png) | ภาพกลไกและกราฟ |
-| [simulation/](simulation/) | โค้ด MATLAB ประกอบ |
 | [bonus/](bonus/) | วิดีโอและภาพ Synthesis |
 
 ## แบบจำลองกลไก
