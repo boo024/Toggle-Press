@@ -57,7 +57,7 @@ MA=\frac{r_2|\omega_2|}{|v_B|},\qquad
 F_{hand}=\frac{|T_2|}{L_h}.
 ```
 
-![Main](Render.jpg)
+![Main](Animation.png)
 
 ## ผลที่ได้
 
