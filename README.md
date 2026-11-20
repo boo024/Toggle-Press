@@ -10,7 +10,7 @@
 | ไฟล์ | เนื้อหา |
 |---|---|
 | [Report.pdf](Report.pdf) | รายงาน |
-| [Mechanism.mlx](Mechanism.mlx) | Symbolic analysis และคำสั่งรัน |
+| [toggle-press.m](toggle-press.m) | Symbolic analysis และคำสั่งรัน |
 | [Mechanism.mp4](Mechanism.mp4) | ภาพเคลื่อนไหวพร้อมกราฟ s/v/a |
 | [Render.jpg](Render.jpg) | ภาพกลไกและกราฟ |
 | [simulation/](simulation/) | โค้ด MATLAB ประกอบ |
