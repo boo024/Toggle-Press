@@ -72,7 +72,7 @@ ram เคลื่อนที่ลง 75.83 mm ใน 0.817 s ยิ่งใ
 
 [ผลสังเคราะห์: ค่าที่เลือก, MA ที่ปลาย stroke, แรงมือสูงสุด]
 
-![Synthesis](Synthesis.png)
+![Synthesis](Synthesis/Synthesis.png)
 
 ## การรัน
 
