@@ -74,10 +74,5 @@ ram เคลื่อนที่ลง 75.83 mm ใน 0.817 s ยิ่งใ
 
 ![Synthesis](Synthesis/Synthesis.png)
 
-## การรัน
 
-ดาวน์โหลดและแตก ZIP ทั้งโครงการ ใช้ MATLAB พร้อม Symbolic Math Toolbox เปิด `Mechanism.mlx` แล้วกด Run All หรือรัน [RUN_ALL.m](RUN_ALL.m) ผลใหม่บันทึกใน `results/main/` และ `results/bonus/`
 
-โค้ดหลักอยู่ใน [toggle_model.m](simulation/toggle_model.m), [run_main.m](simulation/run_main.m) และ [run_bonus.m](simulation/run_bonus.m) แก้ค่าพารามิเตอร์ได้ที่บล็อก `PARAMETERS` ต้นไฟล์
-
-แบบจำลองใช้ชิ้นส่วนแข็งเกร็ง ความเร็ว crank คงที่ และไม่มีแรงเสียดทาน แรงกดงานเข้าเป็นขั้นเมื่อ ram สัมผัสงาน มวลของก้านโยกไม่รวมในการคำนวณ หน่วย mm, s, rad, N
